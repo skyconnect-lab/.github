@@ -1,7 +1,7 @@
 # SkyConnect - Impacting Life
 
 ## Overview
-Transforming industries with innovative digital solutions, SkyConnect has a significant impact with over 500 lives affected and maintaining a 98% customer satisfaction rate through more than 100 software development projects&#8203;``【oaicite:14】``&#8203;.
+Transforming industries with innovative digital solutions, SkyConnect has a significant impact with over 500 lives affected and maintaining a 98% customer satisfaction rate through more than 100 software development projects
 
 ## Core Values
 - **Simplifying IT:** Streamlining complex technological solutions&#8203;
